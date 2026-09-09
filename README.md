@@ -19,7 +19,7 @@ Construindo interfaces, aplicações web e soluções práticas com tecnologia.
 
 Sou **Técnico em Informática** e estou direcionando minha carreira para **Desenvolvimento Web**, com foco em Front-end.
 
-Minha base em TI inclui suporte técnico, manutenção de computadores, periféricos e redes. No desenvolvimento, gosto de aprender construindo projetos práticos, trabalhando principalmente com interfaces, lógica de aplicações, consumo de APIs e experiência do usuário.
+Minha base em TI inclui suporte técnico, manutenção de computadores, periféricos e redes. No desenvolvimento, gosto de aprender construindo projetos práticos, trabalhando com interfaces, lógica de aplicações, componentes, formulários e experiência do usuário.
 
 Meu objetivo é unir essa base técnica ao desenvolvimento para criar produtos web úteis, claros e bem estruturados.
 
@@ -40,19 +40,21 @@ Meu objetivo é unir essa base técnica ao desenvolvimento para criar produtos w
 
 ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=FFFFFF)
-![REST API](https://img.shields.io/badge/REST_API-111111?style=flat-square&logo=fastapi&logoColor=FFFFFF)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-111111?style=flat-square&logo=css3&logoColor=FFFFFF)
 
 ## Projetos em destaque
+
+### E-vent
+Dashboard de gestão de eventos desenvolvido com **React + TypeScript + Vite**, com cadastro, busca, filtros, indicadores e layout responsivo. É o projeto principal para demonstrar a evolução atual em Front-end.
 
 ### Portfólio Web
 Meu portfólio profissional, desenvolvido para apresentar minha trajetória, projetos e competências.
 
 ### Hambúrgueria
-Projeto web focado em apresentação de produtos e navegação responsiva.
+Projeto web focado em apresentação de produtos, carrinho, interação com JavaScript e navegação responsiva.
 
 ### Login
-Projeto de estudo voltado à construção de uma interface de login e seus elementos de interação.
+Projeto de estudo voltado à construção de uma interface de login/cadastro e seus elementos de interação.
 
 ### TCC
 Projeto acadêmico de conclusão do curso Técnico em Informática, relacionado ao desenvolvimento de uma solução web.
@@ -62,7 +64,7 @@ Projeto acadêmico de conclusão do curso Técnico em Informática, relacionado 
 - Aprofundando **JavaScript, TypeScript e React**.
 - Evoluindo práticas de **Git e GitHub**.
 - Desenvolvendo projetos para consolidar conhecimentos de desenvolvimento Web.
-- Melhorando UI, responsividade e acessibilidade.
+- Melhorando UI, responsividade, acessibilidade e organização de código.
 - Buscando oportunidades como **Desenvolvedor Front-end Júnior / Desenvolvedor Web Júnior**.
 
 ## Formação
