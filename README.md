@@ -19,13 +19,13 @@ Construindo interfaces, aplicações web e soluções práticas com tecnologia.
 
 Sou **Técnico em Informática** e estou direcionando minha carreira para **Desenvolvimento Web**, com foco em Front-end.
 
-Minha base em TI inclui suporte técnico, manutenção de computadores, periféricos e redes. No desenvolvimento, gosto de aprender construindo projetos reais, trabalhando principalmente com interfaces, lógica de aplicações, consumo de APIs e experiência do usuário.
+Minha base em TI inclui suporte técnico, manutenção de computadores, periféricos e redes. No desenvolvimento, gosto de aprender construindo projetos práticos, trabalhando principalmente com interfaces, lógica de aplicações, consumo de APIs e experiência do usuário.
 
-Meu objetivo é transformar essa combinação de conhecimento técnico e desenvolvimento em produtos web úteis, claros e bem estruturados.
+Meu objetivo é unir essa base técnica ao desenvolvimento para criar produtos web úteis, claros e bem estruturados.
 
-## Tecnologias
+## Tecnologias e conhecimentos
 
-**Front-end**
+**Desenvolvimento Web**
 
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6)
@@ -45,17 +45,17 @@ Meu objetivo é transformar essa combinação de conhecimento técnico e desenvo
 
 ## Projetos em destaque
 
-### DevTrack
-Dashboard web desenvolvido com React + TypeScript para consulta de perfis e repositórios públicos do GitHub. Trabalha consumo de API REST, tipagem, hooks, estados de carregamento e tratamento de erros.
-
 ### Portfólio Web
-Meu portfólio profissional, criado para apresentar minha trajetória, projetos e competências.
+Meu portfólio profissional, desenvolvido para apresentar minha trajetória, projetos e competências.
 
 ### Hambúrgueria
-Projeto web voltado à apresentação de produtos e experiência de navegação responsiva.
+Projeto web focado em apresentação de produtos e navegação responsiva.
 
 ### Login
-Projeto de estudo focado em interface e fluxo de autenticação.
+Projeto de estudo voltado à construção de uma interface de login e seus elementos de interação.
+
+### TCC
+Projeto acadêmico de conclusão do curso Técnico em Informática, relacionado ao desenvolvimento de uma solução web.
 
 ## Atualmente
 
